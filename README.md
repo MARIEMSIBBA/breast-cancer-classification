@@ -5,7 +5,7 @@ Ce projet a été réalisé dans le cadre du module **Intelligence Artificielle 
 Il a pour objectif de **prédire si une tumeur mammaire est bénigne ou maligne** à partir du dataset **Breast Cancer Wisconsin (Diagnostic)** en utilisant plusieurs modèles de Machine Learning.
 
 
- 3. Objectifs
+ 2. Objectifs
 - Explorer et analyser le dataset pour comprendre la distribution des données  
 - Prétraiter les données pour les rendre exploitables par les modèles  
 - Entraîner et comparer différents modèles de Machine Learning :  
