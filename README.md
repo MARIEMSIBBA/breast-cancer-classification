@@ -1,10 +1,11 @@
 
 1. Description du projet
+
 Ce projet a été réalisé dans le cadre du module **Intelligence Artificielle – Machine Learning** à l’Université Ibn Zohr, Faculté des Sciences d’Agadir.  
 Il a pour objectif de **prédire si une tumeur mammaire est bénigne ou maligne** à partir du dataset **Breast Cancer Wisconsin (Diagnostic)** en utilisant plusieurs modèles de Machine Learning.
 
 
- 2. Objectifs
+ 3. Objectifs
 - Explorer et analyser le dataset pour comprendre la distribution des données  
 - Prétraiter les données pour les rendre exploitables par les modèles  
 - Entraîner et comparer différents modèles de Machine Learning :  
