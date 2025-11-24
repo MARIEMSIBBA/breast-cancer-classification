@@ -26,6 +26,7 @@ Il a pour objectif de **prédire si une tumeur mammaire est bénigne ou maligne*
 
 
 4. Structure du projet
+
 Breast-Cancer-Classification/
 │
 ├─ Dataset
@@ -61,5 +62,6 @@ Streamlit :
 L’interface s’ouvrira automatiquement dans le navigateur
 
 6. Auteur
+
 Nom : Mariem Sibba ,  
 Université : Université Ibn Zohr, Faculté des Sciences d’Agadir
