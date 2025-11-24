@@ -46,16 +46,16 @@ if st.button("Prédire"):
     input_scaled = scaler.transform(input_array)
     prediction = model.predict(input_scaled)[0]
 
-    # 🔮 Affichage du résultat
+    # Affichage du résultat
     if prediction == 0:
-        st.error("❌ La tumeur est probablement **Maligne**.")
+        st.error("La tumeur est probablement **Maligne**.")
     else:
-        st.success("✅ La tumeur est probablement **Bénigne**.")
+        st.success("La tumeur est probablement **Bénigne**.")
 
-    # 📊 Afficher les probabilités
+    # Afficher les probabilités
     proba = model.predict_proba(input_scaled)[0]
     st.markdown("### Probabilités :")
-    st.write(f"🔎 Probabilité **Maligne** : `{proba[0]*100:.2f}%`")
-    st.write(f"🔎 Probabilité **Bénigne** : `{proba[1]*100:.2f}%`")
+    st.write(f"Probabilité **Maligne** : `{proba[0]*100:.2f}%`")
+    st.write(f"Probabilité **Bénigne** : `{proba[1]*100:.2f}%`")
 
 
