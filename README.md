@@ -46,7 +46,7 @@ Breast-Cancer-Classification/
 5.3 Lancer le notebook principal
 
     jupyter notebook
-Ouvrir notebook/breast_cancer_classification.ipynb
+Ouvrir notebook/breast_cancer_classification.ipynb et 
 Suivre les cellules pour explorer, entraîner et évaluer les modèles
 
 5.4 Lancer l’interface 
@@ -60,5 +60,5 @@ Streamlit :
 L’interface s’ouvrira automatiquement dans le navigateur
 
 6. Auteur
-Nom : Mariem Sibba
+Nom : Mariem Sibba ,  
 Université : Université Ibn Zohr, Faculté des Sciences d’Agadir
